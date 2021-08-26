@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EcuacionesSegundoGrado</string>
+    <string name="calculadora_de_ecuaciones_de_segundo_grado">Calculadora de ecuaciones de segundo grado</string>
+    <string name="a">a:</string>
+    <string name="b">b:</string>
+    <string name="c">c:</string>
+    <string name="ingrese_un_n_mero">Ingrese un número</string>
+    <string name="ra_z_2">Raíz 2</string>
+    <string name="ra_z_1">Raíz 1</string>
+    <string name="name">Name</string>
+    <string name="resolver">Resolver</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="introduce_las_constantes_de_una_ecuaci_n_como_esta">Introduce las constantes de una ecuación como esta:</string>
+    <string name="ax_2_bx_c_0">ax^2 + bx + c = 0</string>
+</resources>
